@@ -1,3 +1,7 @@
+/* Implementation of Web server and displaying the sensor data
+a. T/RH
+b. LED Status
+*/
 #include <WiFi.h>
 #include <WebServer.h>
 #include "DHT.h"

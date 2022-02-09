@@ -1,6 +1,10 @@
-#include <HTTP_Method.h>
-#include <Uri.h>
-#include <WebServer.h>
+/*Interface the given TRH sensor with ESP module and WAP to get the temperature 
+and humidity values  
+Output
+: 
+a) Show the output on serial terminal.
+  b) Show on the cloud dashboard
+  */
 
 #include <ThingSpeak.h>
 

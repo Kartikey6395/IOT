@@ -1,3 +1,9 @@
+/* WAP for Smart Lighting using PIR and LED
+Output:
+a) Show the output on serial terminal.
+b) Show on the cloud dashboard (Person Count and LED Status)
+*/
+
 #include <ThingSpeak.h>
 
 #include "ThingSpeak.h"

@@ -1,3 +1,5 @@
+/*WAP to turn on the buzzer for 5 secs when the user button is pressed*/
+
 #define LED_PIN_A 15
 #define SW 22
 bool val;

@@ -1,3 +1,5 @@
+/*WAP to interface LDR and Turn ON/OFF the LED based on light intensity*/
+
 #define LED_PIN_A 15
 #define ADC_PIN 22
 int val;

@@ -1,3 +1,10 @@
+/* Interface the given Ultrasonic sensor module with ESP module and WAP for “Object 
+counting application and distance calculation 
+Output: 
+a) Show the output on serial terminal
+b) Show on the cloud dashboard
+*/
+
 #include "ThingSpeak.h"
 #include "WiFi.h"
 
